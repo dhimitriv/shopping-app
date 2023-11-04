@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-color: rgba(18, 168, 7, 0.925);
+  /* background-color: rgba(18, 168, 7, 0.925); */
   margin-top: 30px;
   height: 100vh;
   /* color: #495057; */
@@ -27,15 +27,14 @@ body {
 }
 
 .a {
-  background-color: rgba(76, 255, 63, 0.925);
-  /* border-radius: 5px; */
+  background-color: rgba(18, 168, 7, 0.925);
   padding: 10px;
   /* margin: 20px; */
   text-align: center;
 }
 
 .b {
-  background-color: rgba(76, 255, 63, 0.925);
+  background-color: rgba(18, 168, 7, 0.925);
   padding: 10px;
   margin-top: 20px;
   text-align: center;
@@ -54,10 +53,10 @@ select {
 button {
   margin-top: 10px;
   padding: 15px;
-  color: #f7f7f7;
+  color: #ffffff;
   background-color: rgba(9, 116, 1, 0.925);
   border-radius: 5px;
-  border: none;
+  border: rgba(8, 100, 2, 0.925) solid 0.5px;
 }
 
 li {
